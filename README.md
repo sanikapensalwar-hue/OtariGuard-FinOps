@@ -1,4 +1,4 @@
-OtariGuard FinOps
+### OtariGuard FinOps
 ### Privacy-First AI Security Gateway for Intelligent Request Inspection, Threat Detection & Secure AI Model Routing
 
 <p align="center">
@@ -191,6 +191,10 @@ The project brings together AI security, intelligent agents, privacy-first proce
 - Added security alerts for suspicious prompts.
 - Developed the System Event Journal to display processing and routing events.
 - Added a Hardware Status Footer for system resource monitoring.
+
+## System Architecture
+  <img width="1316" height="843" alt="image" src="https://github.com/user-attachments/assets/f22b2bae-984e-4744-ab20-b6fb78853dcc" />
+
 
 ## 📌 Project Vision
 
